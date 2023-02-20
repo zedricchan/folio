@@ -1,0 +1,22 @@
+<!doctype html>
+<html>
+<head>
+   <meta charset = "utf-8" />
+  <title>Zedric's Page</title>
+</head>
+<body>
+  <h1> This is Zedric </h1>
+  <hr>
+  <ul>
+  <h2> What are some Zedric's backgrounds? </h2>
+  <li> He is from Hong Kong and moved to Singapore when he's 11 </li>
+  <li> He graduated in Springfield Secondary School </li>
+  <li> He was raised by his single mother for his first 10 years of life </li>
+  </ul>
+  <h2> What about some things in ASR? </h2>
+  <ul> He is currently taking H2 Mathematics, Physics, Computing and H1 Geography as his A-level subjects </ul>
+  <ul> He finds lecture lessons fun but prefer a place to study alone e.g the library </ul>
+  <ul> His favourite subject is still Mathematics </ul>
+  <p> My most used emoji: &#x1F61C </p>
+</body>
+</html>
