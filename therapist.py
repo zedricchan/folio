@@ -1,4 +1,3 @@
-import random
 name = input("Hello! May I know your name? ")
 print("Hello {}! Nice to meet you! ".format(name))
 flag = True #checkpoint for while loop
